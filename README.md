@@ -1,27 +1,8 @@
 ## Hi karol👋
-Ir para o Conteúdo
-Larissakich
-Larissakich
-Navegação do repositório
-Código
-Edições
-4
-(4)
-Puxar solicitações
-2
-(2)
-Agentes
-Ações
-projetos
-Segurança e qualidade
-Ideias
-Arquivos
 
-t
-T
-LEIA-ME.md
-Você está fazendo alterações em um projeto ao qual não tem acesso de gravação. Enviar uma alteração irá escrevê-la para uma nova filial em seu fork mynamekarol-dev/Larissakich, para que você possa enviar uma solicitação de pull.
-Larissakich
+
+
+LEIA-ME
 /
 
 Em
