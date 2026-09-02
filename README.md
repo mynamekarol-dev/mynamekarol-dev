@@ -5,7 +5,7 @@
 LEIA-ME
 
 
-# 👩🏻‍💻 KAROL ALMEIDA
+# 👩🏻‍💻 Karol Almeida
 
 **`Desenvolvedora FullStack`**
 
