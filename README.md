@@ -15,3 +15,6 @@ Me chamo Ana Karoline Almeida, tenho  36 anos. Formada em contabilidade , com o 
  
 ---
 
+### Linguagens 
+
+<i class="devicon-aarch64-planície"></i>
