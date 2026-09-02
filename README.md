@@ -63,7 +63,7 @@ Me chamo Ana Karoline Almeida, tenho  36 anos. Formada em contabilidade , com o 
     title="GitHub"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg"        
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"                
 />
 <img 
     align="left" 
