@@ -23,7 +23,7 @@ Me chamo Ana Karoline Almeida, tenho  36 anos. Formada em contabilidade , com o 
     title="PANDAS" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg"       
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"                
 />
 <img 
     align="left" 
@@ -31,7 +31,7 @@ Me chamo Ana Karoline Almeida, tenho  36 anos. Formada em contabilidade , com o 
     title="JUPYTER NOTEBOOK"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg"         
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg"          
 />
 <img 
     align="left" 
@@ -39,23 +39,23 @@ Me chamo Ana Karoline Almeida, tenho  36 anos. Formada em contabilidade , com o 
     title="Matplotlib"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg"      
-/>              
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" 
+/>         
 <img 
     align="left" 
     alt="SQL"
     title="SQL" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" 
-/>
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
+ />          
 <img 
     align="left" 
     alt="Plotly"
     title="Plotly" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg"           
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg"                   
 />
 <img 
     align="left" 
