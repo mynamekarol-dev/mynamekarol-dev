@@ -1,21 +1,40 @@
 ## Hi karol👋
 
-
+# 👩🏻‍💻 Karol Almeida
 
 LEIA-ME
 
 
-# 👩🏻‍💻 Karol Almeida
+Olá! Eu sou Ana Karoline da Silva Almeida 👋
 
-**`Desenvolvedora FullStack`**
+Sou profissional formada em Ciências Contábeis, com experiência nas áreas administrativa e financeira, incluindo pagamentos, prestação de contas, conciliação bancária e pagamentos de impostos.
 
-Me chamo Ana Karoline Almeida, tenho  36 anos. Formada em contabilidade , com o curso em análise de dados. Me apaixonando pelo novo e o conhecimento de experiências da tecnologia.
+Atualmente, estou direcionando minha carreira para a área de Análise de Dados, com formação em Análise de Dados pela TripleTen.
+
+
+### 💼 Minha experiência
+
+Minha experiência em Contabilidade e Finanças me permite unir conhecimento de negócios com análise de dados, buscando transformar informações em insights que possam apoiar decisões.
+
+### 🚀 Objetivo profissional
+
+Busco uma oportunidade como Analista de Dados Júnior, onde possa aplicar meus conhecimentos em dados e, ao mesmo tempo, utilizar minha experiência em Contabilidade e Finanças para contribuir com os resultados da empresa.
+
+📌 Neste GitHub, compartilho meus projetos, estudos e aplicações práticas em Análise de Dados.
 
  
  
 ---
-
 ### 🤖 Linguagens e Tecnologias
+- Python
+- SQL
+- Excel
+- Manipulação e análise de dados
+- Análise estatística
+- Análise de negócios
+- Tomada de decisões baseada em dados
+- Automação
+- Visualização e apresentação de dados
 
 <img 
     align="left" 
